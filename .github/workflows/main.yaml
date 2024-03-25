@@ -14,4 +14,4 @@ jobs:
         server: wepoint.ar
         username: Production@wepoint.ar
         password: ${{ secrets.ftp_password }}
-        server-dir: home/wepoint/public_html/production
+        server-dir: home/wepoint/public_html/production/
